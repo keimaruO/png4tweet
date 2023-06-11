@@ -19,7 +19,8 @@ https://github.com/yt-dlp/FFmpeg-Builds/releases/tag/latest
 
 
 解凍したファイル内にffmpeg.exeがあるので画像のように配置してください。
-![image](https://github.com/keimaruO/png4tweet/assets/91080250/0c9daeba-9e1d-4c3d-9bf7-fd2b85e97299)
+![image](https://github.com/keimaruO/png4tweet/assets/91080250/99f6f7bd-abf3-46c6-b16d-3a397735b9fa)
+
 
 
 inputフォルダに変換したい元の画像をぶちこんでください。
