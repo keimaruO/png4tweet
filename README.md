@@ -25,6 +25,4 @@ https://github.com/yt-dlp/FFmpeg-Builds/releases/tag/latest
 
 inputフォルダに変換したい元の画像をぶちこんでください。
 
-そしてmain.pyを実行すると数秒後にoutputフォルダ内に出力されます。
-
-main.pyの実行に仕方は
+そしてRUN.pyをダブルクリックで実行して数秒すると黒い画面が閉じて、outputフォルダ内に出力されます。
