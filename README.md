@@ -6,7 +6,7 @@ inputフォルダに変換したい画像を入れてRUN.batを実行するとou
 
 # 環境構築
 
-python(プログラム言語)をダウンロードしてインストールしてください。インストールで済むので簡単です！
+python(プログラム言語)を下記のURLを押してしてインストールしてください。インストールだけで済むので簡単です！
 
 python https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe
 
@@ -16,7 +16,7 @@ python https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe
 ![image](https://github.com/keimaruO/png4tweet/assets/91080250/eb4aa156-f9c9-4293-b57e-dfc352a29b9b)
 
 
-無事インストールできたら次にffmpegダウンロードしてきます。
+無事解凍できたら次にffmpegを下記のURLからダウンロードしてきます。
 
 https://github.com/yt-dlp/FFmpeg-Builds/releases/tag/latest
 
