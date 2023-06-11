@@ -6,10 +6,12 @@ inputフォルダに変換したい画像を入れてmain.pyを実行するとou
 
 # 環境構築
 
-pythonをダウンロードしてインストールしてください。インストールで済むので簡単です！
-pyuthon https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe
+python(プログラム言語)をダウンロードしてインストールしてください。インストールで済むので簡単です！
+
+python https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe
 
 無事インストールできたら次にをダウンロードして来ます。
+
 https://github.com/yt-dlp/FFmpeg-Builds/releases/tag/latest
 
 このURLにある　このファイルをダウンロードしたら解凍します
