@@ -2,7 +2,7 @@
 
 ツイート用にpng画像を8bit(256色)カラー形式に変換するプログラム
 
-inputフォルダに変換したい画像を入れてmain.pyを実行するとoutputフォルダに内に出力されます。複数可
+inputフォルダに変換したい画像を入れてRUN.batを実行するとoutputフォルダに内に変換された画像が出力されます。複数可
 
 # 環境構築
 
@@ -10,19 +10,28 @@ python(プログラム言語)をダウンロードしてインストールして
 
 python https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe
 
-無事インストールできたら次にをダウンロードして来ます。
+次に、上にリストのように並べられている、変換するためのファイル構成と変換プログラムをダウンロードします。
+
+画像のようにクリックするとダウンロードできます。自分がわかりやすい所に解凍してください。
+![image](https://github.com/keimaruO/png4tweet/assets/91080250/eb4aa156-f9c9-4293-b57e-dfc352a29b9b)
+
+
+無事インストールできたら次にffmpegダウンロードしてきます。
 
 https://github.com/yt-dlp/FFmpeg-Builds/releases/tag/latest
 
-このURLにある　このファイルをダウンロードしたら解凍します
+画像のをダウンロードしたら解凍します
 ![image](https://github.com/keimaruO/png4tweet/assets/91080250/31c255f5-9170-4479-a6d2-424633b8f212)
 
 
-解凍したファイル内にffmpeg.exeがあるので画像のように配置してください。
+解凍したファイル内にffmpeg.exeがあるので先程解凍したフォルダ内に画像のように配置してください。
 ![image](https://github.com/keimaruO/png4tweet/assets/91080250/99f6f7bd-abf3-46c6-b16d-3a397735b9fa)
 
 
+# 使い方
 
-inputフォルダに変換したい元の画像をぶちこんでください。
+inputフォルダ内に変換したい元画像をぶちこんでください。
 
-そしてRUN.pyをダブルクリックで実行して数秒すると黒い画面が閉じて、outputフォルダ内に出力されます。
+そしてRUN.pyをダブルクリックで実行して、数秒すると黒い画面が閉じて、outputフォルダ内に出力されます。
+
+2回目以降使う場合はinput,outputフォルダ内の画像を空にしておいてください。別の場所に保存だー！
