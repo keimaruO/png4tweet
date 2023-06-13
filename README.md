@@ -37,6 +37,7 @@ https://github.com/yt-dlp/FFmpeg-Builds/releases/tag/latest
 # 使い方
 
 inputフォルダ内に変換したい元画像をぶちこんでください。
+(outputフォルダ内は毎回空であることを確認してください)
 
 そしてRUN.pyをダブルクリックで実行して、数秒すると黒い画面が閉じて、outputフォルダ内に出力されます。
 
